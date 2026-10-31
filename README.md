@@ -1,2 +1,2 @@
-# ICTAK_projects
-AIML projects
+CASE STUDY 01
+Quickmart Billing Project
